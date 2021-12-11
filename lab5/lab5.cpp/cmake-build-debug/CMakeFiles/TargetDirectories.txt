@@ -1,0 +1,3 @@
+/Users/vadinamo/Documents/asm/lab5/lab5.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vadinamo/Documents/asm/lab5/lab5.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vadinamo/Documents/asm/lab5/lab5.cpp/cmake-build-debug/CMakeFiles/lab5_cpp.dir

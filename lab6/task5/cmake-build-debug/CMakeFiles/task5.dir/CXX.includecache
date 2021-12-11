@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vadinamo/Documents/asm/lab6/task5/bit_ops.h
+
+/Users/vadinamo/Documents/asm/lab6/task5/test_bit_ops.cpp
+iostream
+-
+bit_ops.h
+/Users/vadinamo/Documents/asm/lab6/task5/bit_ops.h
+
